@@ -295,6 +295,4 @@ After pushing, visit: `https://github.com/Kgabo71/FileNative`
 
 Your repository should be live with all your code, README, and project files.
 
-Note: You're in ask mode, so I can't run these commands. Run them in your terminal, or switch to agent mode if you want me to execute them.
-
 
