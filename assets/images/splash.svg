@@ -1,0 +1,23 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- 3D F Logo - White geometric shape on black background -->
+  <rect width="300" height="300" fill="#000000"/>
+  
+  <!-- Vertical bar of F -->
+  <path d="M 80 60 L 120 60 L 120 240 L 80 240 Z" fill="#FFFFFF"/>
+  <!-- Left side face (darker) -->
+  <path d="M 80 60 L 70 70 L 70 250 L 80 240 Z" fill="#E0E0E0"/>
+  
+  <!-- Top horizontal bar -->
+  <path d="M 120 60 L 220 60 L 220 100 L 120 100 Z" fill="#FFFFFF"/>
+  <!-- Top bar right side face -->
+  <path d="M 220 60 L 230 70 L 230 110 L 220 100 Z" fill="#E0E0E0"/>
+  
+  <!-- Middle horizontal bar -->
+  <path d="M 120 140 L 180 140 L 180 180 L 120 180 Z" fill="#FFFFFF"/>
+  <!-- Middle bar right side face -->
+  <path d="M 180 140 L 190 150 L 190 190 L 180 180 Z" fill="#E0E0E0"/>
+  
+  <!-- Triangular cut-out at top junction -->
+  <path d="M 120 60 L 120 100 L 110 90 L 110 70 Z" fill="#000000"/>
+</svg>
+
